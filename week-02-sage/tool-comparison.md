@@ -27,14 +27,14 @@ specific daily tasks. Keep each day under 30 minutes of work.
 
 | Tool | Response Time | Quality | Notes |
 |------|---------------|---------|-------|
-| Gemini | Fast   | [5/5] | [Fast and good responses] |
-| Claude | Medium | [4/5] | [Slower respone times on average. Decent responses that seem less complex than the others.] |
-| ChatGPT | Fast] | [5/5] | [Fast responses, clean output.] |
+| Gemini | Fast   | [5/5] | Fast and good responses |
+| Claude | Medium | [4/5] | Slower respone times on average. Decent responses that seem less complex than the others. |
+| ChatGPT | Fast] | [5/5] | [Fast responses, clean output. |
 
 
 ## Comparative Analysis
-[Write 2-3 paragraphs comparing the tools. Which excelled at what? 
- Which would you use for which tasks? Why?]
+[ Which excelled at what? Which would you use for which tasks? Why?]
+
 All three AI tools produced accurate and usable responses across the four prompts, but their strengths became clearer when comparing speed, structure, and depth. Gemini 3 Flash and ChatGPT consistently delivered the fastest responses, making them ideal for time-sensitive tasks like quick explanations, brainstorming, or structured outputs for assignments. Gemini’s responses were concise and efficient, often getting straight to the point with minimal excess detail, which works well for straightforward informational tasks.
 
 Claude, while slightly slower, showed a more conversational and cautious style. Its responses felt less dense and somewhat less structured, but still accurate and readable. This makes Claude suitable for drafting reflections, discussion posts, or content where tone and clarity matter more than speed or technical precision. However, compared to Gemini and ChatGPT, Claude’s answers felt less complex and sometimes lacked the extra polish needed for technical or academic submissions.
