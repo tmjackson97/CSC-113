@@ -1,19 +1,35 @@
 # SAGE: My Study Assistant & Guide Engine
 
 ## What is SAGE?
-[Explain in your own words what SAGE is and why you're building it]
+SAGE is a personal AI-powered study assistant designed to support learning throughout the semester. SAGE acts as a guide to understand new concepts, organize ideas, and to reflect. I’m building SAGE to improve efficiency, comprehension, and develop better study habits while learning how to work with AI tools.
 
 ## How I'll Use SAGE This Semester
-[List 3-5 specific ways you plan to use AI tools to help with your studies]
+* Clarify difficult concepts from lectures or readings in plain language
+
+* Brainstorm outlines and ideas before writing assignments
+
+* Review and refine my own written work for clarity and structure
+
+* Ask follow-up questions when I’m confused or stuck
+
+* Help organize notes, study plans, and project steps
 
 ## Tools I'm Using
-- **Primary**: [Your preferred AI tool] - [Why you chose it]
-- **Secondary**: [Backup tool] - [When you'll use this instead]
-- **For Special Tasks**: [Any specialized tools]
+- **Primary**: ChatGPT - I’m most familiar with it, and it provides responses that work well for studying and problem-solving.
+- **Secondary**: Gemini - I’ll use this as a backup when I want a different perspective.
+- **For Special Tasks**: Claude - for coding-related help and understanding programming syntax.
 
 ## Ground Rules for Working with AI
-[Write 3-5 personal guidelines for when/how you'll use AI ethically and effectively]
+* I will use AI as a learning aid, not as a replacement for my own thinking or effort.
+
+* I will always read, understand, and revise AI-generated content before submitting work.
+
+* I will not submit AI output as my own without modification or reflection.
+
+* I will use AI to ask better questions, not just to get answers.
+
+* I will follow all course policies regarding ethical AI use.
 
 ---
-*Created: [Date]*  
-*Last Updated: [Date]*
+*Created: 1/23/2026*  
+*Last Updated: 1/23/2026*
