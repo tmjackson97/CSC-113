@@ -33,7 +33,6 @@ specific daily tasks. Keep each day under 30 minutes of work.
 
 
 ## Comparative Analysis
-[ Which excelled at what? Which would you use for which tasks? Why?]
 
 All three AI tools produced accurate and usable responses across the four prompts, but their strengths became clearer when comparing speed, structure, and depth. Gemini 3 Flash and ChatGPT consistently delivered the fastest responses, making them ideal for time-sensitive tasks like quick explanations, brainstorming, or structured outputs for assignments. Gemini’s responses were concise and efficient, often getting straight to the point with minimal excess detail, which works well for straightforward informational tasks.
 
