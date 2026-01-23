@@ -22,6 +22,8 @@ Works best with: ChatGPT
 * Explain this topic using simple language, then restate it again as if you were explaining it to a friend who is not technical.
 * Give one real-world example of how this concept is used outside of school or textbooks.
 * Write a horror story with no violence and no monsters. The horror is everything is too perfect.
+* Show me the most common mistake with this topic and how to avoid it.
+* Ask me five questions that would test understanding, not memorization.
 ---
 *Total Prompts: 7*  
 *Last Updated: 1/23/2026*
