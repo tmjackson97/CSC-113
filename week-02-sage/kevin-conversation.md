@@ -30,8 +30,4 @@ celebrate with them. Your goal is to build confidence while teaching well.
 
 
 ## Reflection
-[Write 1-2 paragraphs about this interaction:
- - What was helpful?
- - What surprised you?
- - How does Kevin compare to just "regular" ChatGPT?
- - Will you use this persona approach in the future?]
+This interaction was valuable because Kevin didn’t just provide answers—he took the time to explain the reasoning behind each step. Unlike typical responses, Kevin came across more like a learning partner, rather than overwhelming with information all at once. It makes the learning process feel less stressful, while still being informative.
