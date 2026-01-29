@@ -32,7 +32,7 @@ SAGE is a personal AI-powered study assistant designed to support learning throu
 
 ---
 #### Week 2: AI Tools & First Collaborations
-**Date**:
+**Date**: 1/26/2026
 What I learned this week:
 
 Different AI tools excel at different tasks; some are better at structured explanations while others are stronger at creative or conversational responses.
