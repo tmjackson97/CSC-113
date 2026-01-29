@@ -31,5 +31,26 @@ SAGE is a personal AI-powered study assistant designed to support learning throu
 * I will follow all course policies regarding ethical AI use.
 
 ---
+#### Week 2: AI Tools & First Collaborations
+**Date**:
+What I learned this week:
+
+Different AI tools excel at different tasks; some are better at structured explanations while others are stronger at creative or conversational responses.
+Prompt wording matters more than I expected — small changes in clarity and constraints significantly improved the quality of responses.
+Free-tier rate limits are real, and switching tools or taking breaks is part of using AI effectively.
+
+What challenged me:
+
+Comparing AI tools objectively without defaulting to personal preference.
+Managing GitHub workflow steps like branches and file structure while learning new concepts at the same time.
+
+What I'm proud of:
+Successfully setting up my SAGE workspace and organizing files correctly in GitHub.
+Learning how to troubleshoot issues instead of starting over when something went wrong.
+
+Questions I still have:
+How to refine prompts more efficiently without trial and error.
+How AI tools differ internally in reasoning and reliability over time.
+
 *Created: 1/23/2026*  
 *Last Updated: 1/23/2026*
