@@ -53,5 +53,23 @@ Questions I still have:
 * How to refine prompts more efficiently without trial and error.
 * How AI tools differ internally in reasoning and reliability over time.
 
+
+#### Week 2: SAGE Development Environment & AI-Assisted Coding
+**Date**: 2/5/2026
+
+**What I built:**
+- `hello_sage.py` — first Python script
+- `prompt_tracker.py` — built with Kevin's help
+
+**What I learned about AI-assisted coding:**
+- [Key insight 1]
+- [Key insight 2]
+
+**What challenged me:** [Honest reflection]
+
+**What I'm proud of:** [Something specific]
+
+**Questions I still have:** [Real questions]
+
 *Created: 1/23/2026*  
-*Last Updated: 1/23/2026*
+*Last Updated: 2/5/2026*
