@@ -62,14 +62,14 @@ Questions I still have:
 - `prompt_tracker.py` — built with Kevin's help
 
 **What I learned about AI-assisted coding:**
-- [Key insight 1]
-- [Key insight 2]
+- You can't just paste code and hope it works; you have to troubleshoot specific issues like indentation or environment-specific file paths with your AI partner.
+- I learned the difference between where a script is located and where the terminal is running it, and how to make file pathing more robust.
 
-**What challenged me:** [Honest reflection]
+**What challenged me:** I hit a "non-fast-forward" error when trying to push my code. It was a big challenge to realize that my Codespace and GitHub were out of sync and needed a git pull with a specific merge configuration.
 
-**What I'm proud of:** [Something specific]
+**What I'm proud of:** I successfully implemented a system that reads a text file into a list, removes a specific entry, and overwrites the file—making a "real" application that remembers what I do.
 
-**Questions I still have:** [Real questions]
+**Questions I still have:** As my prompt library grows, at what point does using a plain .txt file become too slow, and when should I start looking into real databases.
 
 *Created: 1/23/2026*  
-*Last Updated: 2/5/2026*
+*Last Updated: 2/6/2026*
